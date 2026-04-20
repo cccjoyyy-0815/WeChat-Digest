@@ -1,0 +1,7 @@
+.env
+credentials.json
+token.json
+messages.db
+venv/
+__pycache__/
+*.pyc
